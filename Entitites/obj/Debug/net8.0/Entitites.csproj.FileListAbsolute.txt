@@ -1,0 +1,11 @@
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\bin\Debug\net8.0\Entitites.deps.json
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\bin\Debug\net8.0\Entitites.dll
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\bin\Debug\net8.0\Entitites.pdb
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\obj\Debug\net8.0\Entitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\obj\Debug\net8.0\Entitites.AssemblyInfoInputs.cache
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\obj\Debug\net8.0\Entitites.AssemblyInfo.cs
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\obj\Debug\net8.0\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\obj\Debug\net8.0\Entitites.dll
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\obj\Debug\net8.0\refint\Entitites.dll
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\obj\Debug\net8.0\Entitites.pdb
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Entitites\obj\Debug\net8.0\ref\Entitites.dll

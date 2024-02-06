@@ -1,0 +1,15 @@
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\bin\Debug\net8.0\Buisness.deps.json
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\bin\Debug\net8.0\Buisness.dll
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\bin\Debug\net8.0\Buisness.pdb
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\bin\Debug\net8.0\Entitites.dll
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\bin\Debug\net8.0\Entitites.pdb
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\obj\Debug\net8.0\Buisness.csproj.AssemblyReference.cache
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\obj\Debug\net8.0\Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\obj\Debug\net8.0\Buisness.AssemblyInfoInputs.cache
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\obj\Debug\net8.0\Buisness.AssemblyInfo.cs
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\obj\Debug\net8.0\Buisness.csproj.CoreCompileInputs.cache
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\obj\Debug\net8.0\Buisness.csproj.CopyComplete
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\obj\Debug\net8.0\Buisness.dll
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\obj\Debug\net8.0\refint\Buisness.dll
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\obj\Debug\net8.0\Buisness.pdb
+C:\Users\kelam\OneDrive\Masaüstü\Her Şey\DERS\Programlama\C#\ConsoleApp1\Buisness\obj\Debug\net8.0\ref\Buisness.dll
